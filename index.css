@@ -113,7 +113,8 @@
 			
 			p{
 				text-align:left;
-				
+				margin: 13px;
+                                padding: 13px;
                
 			
 				
@@ -185,8 +186,8 @@
                 				
 		   }
 		   .head4{
-			       margin: auto;
-                padding: auto;
+			       margin: 19px;
+                padding: 19px;
 				position:absolute;
 				top:45%;
 				right:80%;
